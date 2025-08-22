@@ -1,0 +1,30 @@
+[
+  {
+    "agent_id": "Mickey Mouse",
+    "username": "Sandhya Dindyal",
+    "password_hash": "$2b$12$sJfa.kFjlYGBArLkrbl/LuuQQsEacsAkpeEQmMqZ474XlV9Ip7nQy",
+    "salt": "+V1LrZpavHsbNILvdF2jKQ==",
+    "authorization_level": 1
+  },
+  {
+    "agent_id": "Mickey",
+    "username": "Sandhya",
+    "password_hash": "$2b$12$B9N3lVAa/hAf.g4hsbdY5uHxv5CEyoicHeD/VqKRJi4Lipovzms6q",
+    "salt": "7Sz/j85tuQyfHY/K4Nu/rw==",
+    "authorization_level": 1
+  },
+  {
+    "agent_id": "mimi",
+    "username": "San",
+    "password_hash": "$2b$12$k1v5IIpOaqRWZRenpkqM1.rx.qjJbKQtGWnIHtzCRa9e6wqwg.at.",
+    "salt": "JmnN9sNJimbpt6II5d8rOw==",
+    "authorization_level": 1
+  },
+  {
+    "agent_id": "mini",
+    "username": "Sandy",
+    "password_hash": "$2b$12$6paAiDR91ogHZHSUZmwW7u8gKDI4p./Bd28o9ggWUW4/lHzTeztGW",
+    "salt": "bxGnwPjGuepSilQ1zR1hSQ==",
+    "authorization_level": 1
+  }
+]
